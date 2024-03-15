@@ -1,1 +1,1 @@
-Website design with HTML, CSS, JavaScript and Responsive Mobile, Tablet, Desktop
+Link Figma: https://www.behance.net/gallery/193812227/Sofass-Landing-Page
